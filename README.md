@@ -1,5 +1,5 @@
-# B-WITHUS-AUTOBOT
-
+# (Work In Progress) B-WITHUS-AUTOBOT
+# This is a passion project i am a Beginner  
 # 🏠 B-With-Us Auto-Bid Bot
 
 A fully automated bot built in Python to monitor and place bids on housing listings from the [B-With-Us](https://www.b-with-us.co.uk/) platform, tailored for specific towns of interest. The bot scans listings regularly and automatically places bids on your behalf when matches are found — saving you time and ensuring you're always one step ahead in the housing game.
